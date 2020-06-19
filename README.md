@@ -6,9 +6,9 @@ Reproduction scripts.
 
 Original data available for download:
 
-* Protest data for Africa and selected countries in Asia, 2010-2018. https://acleddata.com/data-export-tool/ (Raleigh et al. 2010)
+* Protest data for Africa and selected countries in Asia, 2010-2018. https://acleddata.com/data-export-tool/ (Raleigh et al., 2010)
 
-* PRIO-GRID v2 .shp file: https://grid.prio.org/#/extensions  
+* PRIO-GRID v2 .shp file: https://grid.prio.org/#/extensions (Tollefsen, Strand & Buhaug, 2012)
 
 *Vilde Bergstad Larsen, June 2020*
 
