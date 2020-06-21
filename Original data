@@ -1,0 +1,23 @@
+Original data available for download:
+
+* Protest data for Africa and selected countries in Asia, 2010-2018. https://acleddata.com/data-export-tool/ (Raleigh et al., 2010)
+
+* PRIO-GRID v2 .shp file: https://grid.prio.org/#/extensions (Tollefsen, Strand & Buhaug, 2012)
+
+* GDP per capita, constant 2015 prices USD (UNSTATS): https://unstats.un.org/unsd/snaama/Downloads
+
+* Travel time (MAP): https://malariaatlas.org/research-project/accessibility_to_cities/ (Weiss et al., 2015)
+
+* Liberal democracy (V-DEM, v. 9): https://www.v-dem.net/en/data/archive/previous-data/data-version-9/ (Coppedge et al., 2019)
+
+* Unemployment rate (ILO): https://data.worldbank.org/indicator/sl.uem.totl.zs
+
+*References*
+
+Coppedge, Michael, John Gerring, Carl Henrik Knutsen, Staffan I. Lindberg, Jan Teorell, David Altman, Michael Bernhard, M. Steven Fish, Adam Glynn, Allen Hicken, Anna Lührmann, Kyle L. Marquardt, Kelly McMann, Pamela Paxton, Daniel Pemstein, Brigitte Seim, Rachel Sigman, Svend-Erik Skaaning, Jeffrey Staton, Steven Wilson, Agnes Cornell, Lisa Gastaldi, Haakon Gjerløw, Nina Ilchenko, Joshua Krusell, Laura Maxwell, Valeriya Mechkova, Juraj Medzihorsky, Josefine Pernes, Johannes von Römer, Natalia Stepanova, Aksel Sundström, Eitan Tzelgov, Yi-ting Wang, Tore Wig, and Daniel Ziblatt. 2019. "V-Dem [Country-Year/Country-Date] Dataset v9", Varieties of Democracy (V-Dem) Project. https://doi.org/10.23696/vdemcy19
+
+Raleigh, Clionadh, Andrew Linke, Håvard Hegre and Joakim Karlsen. (2010). “Introducing ACLED-Armed Conflict Location and Event Data.”     Journal of Peace Research 47(5) 651-660.
+
+Tollefsen, Andreas Forø; Håvard Strand & Halvard Buhaug (2012) PRIO-GRID: A unified spatial data structure. Journal of Peace Research, 49(2): 363-374. doi: 10.1177/0022343311431287
+
+Weiss DJ., Nelson A., Gibson HS., Temperley WH., Peedell S., Lieber A., Hancher M., Poyart E., Belchior S., Fullman N., Mappin B., Dalrymple U., Rozier J., Lucas TCD., Howes RE., Tusting LS., Kang SY., Cameron E., Bisanzio D., Battle KE., Bhatt S., Gething PW., A global map of travel time to cities to assess inequalities in accessibility in 2015 Nature. January 2018 553: 333–336.
